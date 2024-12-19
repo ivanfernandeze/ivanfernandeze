@@ -4,7 +4,7 @@
 I am a **Systems Engineering** student at UNT.  
 I am passionate about learning and building **scalable systems** and creating impactful server-side applications.
 
-- 💻 **Main languages**: Java, NodeJS, Python  
+- 💻 **Main languages**: Java, NodeJS, Python, Php  
 - 🚀 **Currently exploring**: Efficient designs for scalable systems
 - 🌍 **Interested in**: Server-side application development
 
@@ -30,6 +30,7 @@ I work with a variety of technologies that help me build robust applications:
   <img src="https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=laravel" height="25" />
   <img src="https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django" height="25" />
   <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" height="25" />
+   <img src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php" height="25" />
 </p>
 
 ### Databases
