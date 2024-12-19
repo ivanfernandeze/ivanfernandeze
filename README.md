@@ -32,13 +32,11 @@ I work with a variety of technologies that help me build robust applications:
   <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" height="25" />
 </p>
 
-### Databases & Tools
+### Databases
 <p align="star">
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" height="25" />
   <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql" height="25" />
   <img src="https://img.shields.io/badge/-SQL%20Server-black?style=for-the-badge&logo=microsoftsqlserver" height="25" />
   <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" height="25" />
-  <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker" height="25" />
 </p>
 
 ### Languages
