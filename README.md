@@ -16,35 +16,35 @@ I work with a variety of technologies that help me build robust applications:
 
 ### Frontend
 <p align="star">
-  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" height="25" />
-  <img src="https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=angular" height="25" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss" height="25" />
-  <img src="https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap" height="25" />
+  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" height="40" />
+  <img src="https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=angular" height="40" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss" height="40" />
+  <img src="https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap" height="40" />
 </p>
 
 ### Backend
 <p align="star">
-  <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js" height="30" />
-  <img src="https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express" height="30" />
-  <img src="https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=laravel" height="30" />
-  <img src="https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django" height="30" />
-  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" height="30" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js" height="40" />
+  <img src="https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express" height="40" />
+  <img src="https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=laravel" height="40" />
+  <img src="https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django" height="40" />
+  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" height="40" />
 </p>
 
 ### Databases & Tools
 <p align="star">
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" height="30" />
-  <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql" height="30" />
-  <img src="https://img.shields.io/badge/-SQL%20Server-black?style=for-the-badge&logo=microsoftsqlserver" height="30" />
-  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" height="30" />
-  <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker" height="30" />
+  <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" height="40" />
+  <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql" height="40" />
+  <img src="https://img.shields.io/badge/-SQL%20Server-black?style=for-the-badge&logo=microsoftsqlserver" height="40" />
+  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" height="40" />
+  <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker" height="40" />
 </p>
 
 ### Languages
 <p align="star">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" height="30" />
-  <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript" height="30" />
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" height="40" />
+  <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript" height="40" />
 </p>
 
 ---
