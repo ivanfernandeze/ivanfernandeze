@@ -33,7 +33,7 @@ I work with a variety of technologies that help me build robust applications:
    <img src="https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php" height="25" />
 </p>
 
-### Databases
+### Databases & Tools
 <p align="star">
   <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql" height="25" />
   <img src="https://img.shields.io/badge/-SQL%20Server-black?style=for-the-badge&logo=microsoftsqlserver" height="25" />
